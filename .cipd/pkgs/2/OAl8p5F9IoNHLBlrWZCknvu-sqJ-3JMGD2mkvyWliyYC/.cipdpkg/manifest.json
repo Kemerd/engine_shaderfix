@@ -1,0 +1,32 @@
+{
+  "format_version": "1.1",
+  "package_name": "flutter/tools/esbuild/mac-arm64",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "LICENSE.md",
+      "size": 1069,
+      "writable": true,
+      "hash": "dnG7oZdNE4wbVVYFsHjQLcy0nu0hGzHX2IixR_2Gjx8C"
+    },
+    {
+      "name": "README.md",
+      "size": 145,
+      "writable": true,
+      "hash": "7hbLFaIhGszMs483h4a_5IvF3Prl21VDUkJM1xBHDvoC"
+    },
+    {
+      "name": "bin/esbuild",
+      "size": 9580866,
+      "executable": true,
+      "writable": true,
+      "hash": "rgPazImGFhnifbhfg4ZpTWXZz8BVZjPMDAb-stC03kQC"
+    },
+    {
+      "name": "package.json",
+      "size": 338,
+      "writable": true,
+      "hash": "wgil-J80CYaM2Au9d9Yk0atKmlc7ldtAMvcDnWJD700C"
+    }
+  ]
+}

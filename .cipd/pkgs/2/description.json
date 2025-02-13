@@ -1,0 +1,4 @@
+{
+  "subdir": "src/flutter/prebuilts/macos-arm64/esbuild",
+  "package_name": "flutter/tools/esbuild/mac-arm64"
+}

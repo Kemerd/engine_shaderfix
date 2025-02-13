@@ -24,11 +24,12 @@ using GaussianBlurFragmentShader = GaussianBlurPipeline::FragmentShader;
 
 namespace {
 
-constexpr Scalar kMaxSigma = 500.0f;
+constexpr Scalar kMaxSigma = 5000.0f;
 
 SamplerDescriptor MakeSamplerDescriptor(MinMagFilter filter,
                                         SamplerAddressMode address_mode) {
   SamplerDescriptor sampler_desc;
+  
   sampler_desc.min_filter = filter;
   sampler_desc.mag_filter = filter;
   sampler_desc.width_address_mode = address_mode;

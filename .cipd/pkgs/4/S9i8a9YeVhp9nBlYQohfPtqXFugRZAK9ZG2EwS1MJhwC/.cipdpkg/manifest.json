@@ -1,0 +1,212 @@
+{
+  "format_version": "1.1",
+  "package_name": "flutter/android/embedding_bundle",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "lib/activity-1.8.1.jar",
+      "size": 173358,
+      "hash": "GcwcDo-SXsyue4_q3NDvzsVyYqIGp3VIF2JupNOzdzgC"
+    },
+    {
+      "name": "lib/annotation-experimental-1.4.0.jar",
+      "size": 6304,
+      "hash": "x8MKDxazAHiBDI8yfrzsBNMUw5zp6ZplQJXeddFLMpoC"
+    },
+    {
+      "name": "lib/annotation-jvm-1.8.0.jar",
+      "size": 56126,
+      "hash": "mqsybZSSgAmRhUNgrCSPSTzn98MYNRkwm3is6eJA9vYC"
+    },
+    {
+      "name": "lib/annotations-23.0.0.jar",
+      "size": 29371,
+      "hash": "ew8ZckCCy_y8ZuWr6iubySzwih6hHhkZM-1DgB6zzQUC"
+    },
+    {
+      "name": "lib/collection-1.1.0.jar",
+      "size": 42953,
+      "hash": "YyoOVAdGHed0QJNSlA4pKikQN3JCB6eHggx32vfTO3IC"
+    },
+    {
+      "name": "lib/concurrent-futures-1.1.0.jar",
+      "size": 25987,
+      "hash": "DOBnxRSg0QSdG-vfcJ40TtMmb-l0QnVoKTfNyxMzTp4C"
+    },
+    {
+      "name": "lib/core-1.0.0.jar",
+      "size": 2293,
+      "hash": "hfVA_Wmg7wlvneXYD6PWnc3_nkfy4gwBxieOnB8Jd-EC"
+    },
+    {
+      "name": "lib/core-1.10.3.jar",
+      "size": 451772,
+      "hash": "QowuYcEUkJhYP28oMw1Mf0vfCvr5kObef4jT8Lhp3a8C"
+    },
+    {
+      "name": "lib/core-1.13.1.jar",
+      "size": 1261352,
+      "hash": "8DA5p9LvUDyTCvYBNmNaWqWpmGtA9TsgcYYZRJW-dssC"
+    },
+    {
+      "name": "lib/core-common-2.2.0.jar",
+      "size": 11657,
+      "hash": "ZTCKBrHADuGGy54ZMhOD8EO5k4E_FSLEf0o-MwO9ukEC"
+    },
+    {
+      "name": "lib/core-ktx-1.13.1.jar",
+      "size": 188652,
+      "hash": "gxy5oQdHsdg1Gy4Gwn7_2dQxsB8DTuWWhLMYge92TYsC"
+    },
+    {
+      "name": "lib/core-runtime-2.2.0.jar",
+      "size": 6270,
+      "hash": "xXvqZ5d0MhnBysr87iyDX3k5CZa8pE8JDyH5oygQpUkC"
+    },
+    {
+      "name": "lib/customview-1.0.0.jar",
+      "size": 33627,
+      "hash": "MZ-QTV7kufqdTwdV_MhUmg3ZpXZRBkjj4xr-EMLPj8AC"
+    },
+    {
+      "name": "lib/fragment-1.7.1.jar",
+      "size": 330371,
+      "hash": "8WVvldAV2yktgrW53tOvddojB8MT3hCs3x7dD1B_5RkC"
+    },
+    {
+      "name": "lib/interpolator-1.0.0.jar",
+      "size": 7661,
+      "hash": "BB1l6FZkRbl6KudBInzgWrZ4PHg6g-b7Fz2KvJ6r1VsC"
+    },
+    {
+      "name": "lib/kotlin-stdlib-1.8.22.jar",
+      "size": 1670469,
+      "hash": "A6XDllzDcFESjmTkZ0jjlLa9TJf6gcbeb8cr_UTjQhsC"
+    },
+    {
+      "name": "lib/kotlin-stdlib-common-1.8.22.jar",
+      "size": 221491,
+      "hash": "0MI2XiQ373DzRYbVDwVXQ_eXFrz-ZeS8cjnN0mae98UC"
+    },
+    {
+      "name": "lib/kotlin-stdlib-jdk7-1.8.20.jar",
+      "size": 963,
+      "hash": "rx7EDDuVGv3MDCoBc8e4F2PFKBwtW6-_CoVEokxdzAwC"
+    },
+    {
+      "name": "lib/kotlin-stdlib-jdk8-1.8.20.jar",
+      "size": 969,
+      "hash": "45i2eXdiJxi_GP-ZtznH2doGDzP7RYouJSAyIcFq8BAC"
+    },
+    {
+      "name": "lib/kotlinx-coroutines-android-1.7.1.jar",
+      "size": 20637,
+      "hash": "EHMTdgwY-NoXTo2BA1BKRo6Aboj3tVqEvRwOruoRjpoC"
+    },
+    {
+      "name": "lib/kotlinx-coroutines-core-jvm-1.7.1.jar",
+      "size": 1548432,
+      "hash": "dJbP_dPrEBCazdocMhL2rHgVeJ4JOA3J4szexJbbo_wC"
+    },
+    {
+      "name": "lib/lifecycle-common-2.7.0.jar",
+      "size": 56617,
+      "hash": "Uz3tjuBkWhj2ZT2lP-HsWhVDDn82pzfUXkEFMfMPMxgC"
+    },
+    {
+      "name": "lib/lifecycle-common-java8-2.7.0.jar",
+      "size": 261,
+      "hash": "xt6tovrFO46mUj29p3WXsSgAZnRhbxQPBN8jJkxtGqMC"
+    },
+    {
+      "name": "lib/lifecycle-livedata-2.7.0.jar",
+      "size": 60402,
+      "hash": "b0ehaY43fqYdOsFWW--X_rMzTO4lHi_WaG3IpQggqmsC"
+    },
+    {
+      "name": "lib/lifecycle-livedata-core-2.7.0.jar",
+      "size": 9551,
+      "hash": "6IxnTZqS96Ov9lbcxzzga0VeknrLkgQfU6czgCD8uowC"
+    },
+    {
+      "name": "lib/lifecycle-livedata-core-ktx-2.7.0.jar",
+      "size": 2854,
+      "hash": "sevnOI_jfgOkub6kjHr19AW_a2IswNmH7YFDewvtlZoC"
+    },
+    {
+      "name": "lib/lifecycle-process-2.7.0.jar",
+      "size": 14538,
+      "hash": "Z3oW6KT_CxUW5sRlax4mQTzsJs-SoPM5hM5QiquJtUgC"
+    },
+    {
+      "name": "lib/lifecycle-runtime-2.7.0.jar",
+      "size": 20734,
+      "hash": "sE3bqSHvGbqircSWVNVN3u3-CT9-FDmdN-wHmSWG_mMC"
+    },
+    {
+      "name": "lib/lifecycle-viewmodel-2.7.0.jar",
+      "size": 41683,
+      "hash": "Nxs2LUKV1MI0m9FlPH-Xcx-8Sx5fVE6I56kDZ-HI168C"
+    },
+    {
+      "name": "lib/lifecycle-viewmodel-savedstate-2.7.0.jar",
+      "size": 39917,
+      "hash": "IQBVrO2e10uocXeosqDp2ZSu4Ao1i60M9FdAyeuzpWgC"
+    },
+    {
+      "name": "lib/listenablefuture-1.0.jar",
+      "size": 3149,
+      "hash": "5K12B-XAR3xviQ7yaknLjRu03_tlC6tFAq_uZGROMGkC"
+    },
+    {
+      "name": "lib/loader-1.0.0.jar",
+      "size": 35177,
+      "hash": "H3Wzy3liE2LDua26fT-Y64HM7DyeCSe-27l1dcVTd1EC"
+    },
+    {
+      "name": "lib/profileinstaller-1.3.1.jar",
+      "size": 47517,
+      "hash": "fdSYjELgq46KrFoxQz08idtKgT7CUEfuZAXkyH9j2ncC"
+    },
+    {
+      "name": "lib/relinker-1.4.5.jar",
+      "size": 30250,
+      "hash": "GJemzzI-ErzVHXsMqjco8i_zHjNLl6HkKqr9lxjMxvwC"
+    },
+    {
+      "name": "lib/savedstate-1.2.1.jar",
+      "size": 19555,
+      "hash": "9PQa5gfGXvJ-xZLAkv5zO5UhRzAaOQAIq37Tb9Lqm4gC"
+    },
+    {
+      "name": "lib/startup-runtime-1.1.1.jar",
+      "size": 6788,
+      "hash": "f5C4dAUdUNXmYqQyuUwr9ruEYfr4s4jhF7hgAi2vqEQC"
+    },
+    {
+      "name": "lib/tracing-1.2.0.jar",
+      "size": 4175,
+      "hash": "uiiE1-n04xX-md4pVZIoCohGpMi7S37vpe0apS1rRosC"
+    },
+    {
+      "name": "lib/versionedparcelable-1.1.1.jar",
+      "size": 31906,
+      "hash": "RzPOavuxx5QZia5YHKe_woklwK_I-Rw-X18FANpsn4MC"
+    },
+    {
+      "name": "lib/viewpager-1.0.0.jar",
+      "size": 55298,
+      "hash": "FPdCnP-fL1BCGjayN6HeNdiiyN7_y-HgFjxuUaLe_lYC"
+    },
+    {
+      "name": "lib/window-1.2.0.jar",
+      "size": 377094,
+      "hash": "XbkiWpDa8EpJBPzh9S7YBTsWE2VqkF3dLvwukhhX1ykC"
+    },
+    {
+      "name": "lib/window-java-1.2.0.jar",
+      "size": 10945,
+      "hash": "igIaf0B4i6hrx3tcSnlv4J0jKi-DG5KLn2CYBFVLE6cC"
+    }
+  ]
+}
